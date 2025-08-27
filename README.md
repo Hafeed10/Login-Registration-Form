@@ -67,14 +67,6 @@ npm install
 npm run dev
 ```
 
-## Notes
-
--   Always run `npm install` after pulling new changes.
--   Feel free to use the code in your projects.
--   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo or in progress.
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/@realstoman). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this project.
--   Contributions are welcome.
-
 ### License
 
 MIT
