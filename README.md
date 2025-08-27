@@ -1,12 +1,7 @@
-# Firebase Authentication With Next.js
+# Login-Registration-Form
 
 Learn how to implement Google Firebase Authentication in your React, Next.js, TypeScript projects.
 
-![NextJS-Firebase-Auth](https://user-images.githubusercontent.com/16396664/216896590-f366b211-cab7-4347-ab72-784d140c82a2.JPG)
-
-## Demo URL
-
-[https://firebase-auth-with-nextjs.netlify.app/](https://firebase-auth-with-nextjs.netlify.app/)
 
 ## Features
 
@@ -22,7 +17,7 @@ Learn how to implement Google Firebase Authentication in your React, Next.js, Ty
 -   Forms designed for both light and dark modes
 -   Framer motion transitions
 
-### To Contribute to this project, please read the [Contribution Guidlines](https://github.com/realstoman/nextjs-firebase-auth/blob/main/CONTRIBUTING.md)
+### To Contribute to this project, please read the [Contribution Guidlines](https://github.com/Hafeed10/Login-Registration-Form.git)
 
 ## Database Setup
 
@@ -34,7 +29,7 @@ Learn how to implement Google Firebase Authentication in your React, Next.js, Ty
 
 1. Add your Firebase project configurations to the `.env` file. I have already prepared the the environment variables for you.
 
-1. If you're not familiar with setting up a Firebase project, read [this article](https://www.stoman.me/articles/nextjs-firebase-auth) I wrote for this project available on my website where I have explained every step with screenshots.
+1. If you're not familiar with setting up a Firebase project, read [this article](https://github.com/Hafeed10/Login-Registration-Form.git) I wrote for this project available on my website where I have explained every step with screenshots.
 
 ## Project Setup
 
@@ -51,7 +46,7 @@ brew install node
 2. Clone the repo:
 
 ```
-git clone https://github.com/realstoman/nextjs-firebase-auth.git
+https://github.com/Hafeed10/Login-Registration-Form.git
 ```
 
 3. Open the project folder:
