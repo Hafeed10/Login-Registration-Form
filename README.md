@@ -77,4 +77,4 @@ npm run dev
 
 ### License
 
-[MIT](https://github.com/realstoman/nextjs-firebase-auth/blob/main/LICENSE)
+MIT
