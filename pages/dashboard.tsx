@@ -9,7 +9,7 @@ const Dashboard = () => {
 	return (
 		<ProtectedRoute>
 			<Head>
-				<title>Dashboard - Firebase Authentication With Next.js</title>
+				<title>Dashboard </title>
 				<meta
 					name="description"
 					content="Project Login Page"
